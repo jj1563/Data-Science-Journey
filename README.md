@@ -19,7 +19,31 @@ Each topic is covered with practice notebooks using **Jupyter Notebook**.
 - [x] Syntax & Comments  
 - [x] Variables & Data Types  
 - [x] Numbers, Casting, Type Conversion  
-- [x] Strings & String Operations  
+- [x] Strings & String Operations
+
+📅 **Day 2 - Boolean & Logical Operators**
+
+In this notebook, I covered:
+- Boolean values (`True`, `False`)
+- Logical operators: `and`, `or`, `not`
+- Real-world conditions and examples
+- Mini use-cases for decision making
+
+📘 View the Notebook: [Day2_Python_Boolean_Operators.ipynb](./Day2_Python_Boolean_Operators/Day2_Python_Boolean_Operators.ipynb)
+
+📊 Summary Table:
+
+| Concept     | Operator | Example                      | Output     |
+|-------------|----------|------------------------------|------------|
+| AND         | `and`    | `True and False`             | `False`    |
+| OR          | `or`     | `True or False`              | `True`     |
+| NOT         | `not`    | `not(True)`                  | `False`    |
+| Combined    | -        | `x > 5 and x < 10`           | `True`     |
+| Real-world  | -        | `temperature > 30 or rain`   | depends on values |
+
+🧪 These fundamentals are essential for building conditional logic in Python, which powers decision-making in data pipelines, filters, and ML models.
+
+📚 Reference: [Full Python Operators Guide →](./docs/Python_Operators_Reference.md)
 
 🔄 *More topics and files will be added as I progress!*
 
