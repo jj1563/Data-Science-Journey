@@ -56,7 +56,7 @@ In this notebook, I covered:
 - Practical demonstrations using Jupyter code blocks
 - Notes and examples to clarify each method’s usage
 
-📂 File Location: `./Day3_Python_Lists.ipynb`
+📂 File Location: [Day3_Python_Lists.ipynb](./Day3_Python_Lists/Day3_Python_Lists.ipynb)
 
 🔄 *More topics and files will be added as I progress!*
 
