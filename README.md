@@ -45,6 +45,15 @@ In this notebook, I covered:
 
 📚 Reference: [Full Python Operators Guide →](./docs/Python_Operators_Reference.md)
 
+### 📘 Day 3 – Python Lists and Methods
+
+> **Topics Covered**:
+- List creation and indexing
+- Common list methods like `append()`, `insert()`, `pop()`, `sort()`, etc.
+- Hands-on examples for each method
+
+🔗 **Notebook**: [Day3_Python_Lists.ipynb](./Day3_Python_Lists/Day3_Python_Lists.ipynb)
+
 🔄 *More topics and files will be added as I progress!*
 
 ---
