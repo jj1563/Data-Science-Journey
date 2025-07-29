@@ -58,6 +58,27 @@ In this notebook, I covered:
 
 📂 File Location: [Day3_Python_Lists.ipynb](./Day3_Python_Lists/Day3_Python_Lists.ipynb)
 
+📘 **Day 4 – Python Tuples & Sets**
+
+In this notebook, I explored two important data structures in Python:
+
+#### 🔹 Tuples:
+- Immutable sequences used to store multiple items
+- Tuple creation using `()`, accessing elements with indexing
+- Tuple unpacking
+- Tuple methods like `count()`, `index()`
+- Use cases where immutability is valuable
+
+#### 🔹 Sets:
+- Unordered collections of unique items
+- Creating sets using `{}` or `set()` constructor
+- Key set operations:
+  - `add()`, `remove()`, `discard()`
+  - Set theory operations: `union()`, `intersection()`, `difference()`, `symmetric_difference()`
+- Real-world use cases (e.g., removing duplicates)
+
+📂 File Location: [Day4_Python_Tuples_Sets.ipynb](./Day4_Python_Tuples_Sets/Day4_Python_Tuples_Sets.ipynb)
+
 🔄 *More topics and files will be added as I progress!*
 
 ---
